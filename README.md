@@ -1,21 +1,107 @@
-## 💫 About Me:
-<br>Hi! I'm **Muhammad Mahad Khan**, a **Computer Science undergraduate** passionate about software development, problem-solving, and understanding how systems work under the hood.<br><br>I'm particularly interested in **C/C++, Data Structures & Algorithms, Operating Systems, and Software Development**, while also exploring **Python, JavaScript, SQL, and DevOps**.<br><br>🎓 Currently pursuing my **BS in Computer Science**<br>💻 Building projects in **C, C++, Python, JavaScript & SQL**<br>🧠 Interested in **DSA, Operating Systems, System Programming & Software Engineering**<br>🚀 Always learning, experimenting, and turning ideas into working projects<br><br>### 🔧 What I Work With<br><br>**Languages:** C · C++ · Python · JavaScript · SQL · Assembly<br>**Core Concepts:** Data Structures & Algorithms · OOP · Operating Systems · DBMS · Computer Architecture<br>**Tools & Technologies:** Git · GitHub · VS Code · Linux/Ubuntu · Oracle SQL Developer · MASM/Irvine32<br><br>### 📌 Currently<br><br>I'm focused on strengthening my **problem-solving and software engineering skills**, building more substantial projects, and exploring how low-level concepts and modern software development come together.<br><br>> *"The best way to learn is to build."*<br>
+# Muhammad Mahad Khan
 
+### Computer Science Undergraduate @ FAST-NUCES
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahad.khan.692323) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahad.fourteen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahad-khan-775062243) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahad.fourteen@gmail.com) 
+I’m a Computer Science undergraduate focused on **software engineering, systems, and problem solving**. I enjoy understanding how software works from the low level up—from data structures and operating systems to databases, backend development, and software architecture.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mahad-khan-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mahad-khan-14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mahad-khan-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently building projects in **C/C++, Python, JavaScript, SQL, and Assembly**, while strengthening my skills in Linux, Git, backend development, and DevOps.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mahad-khan-14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- 🎓 **BS Computer Science** — FAST-NUCES, Karachi | 2024–2028
+- 💻 Interested in **Software Engineering, Systems Programming, DSA, Operating Systems, and Backend Development**
+- 🧠 Comfortable working with **C, C++, Python, JavaScript, SQL, and Assembly**
+- 🐧 Working with **Linux/Ubuntu, Git/GitHub, databases, and development tooling**
+- 🚀 I learn primarily by **building projects and solving problems**
+
+## Technical Skills
+
+**Languages**  
+`C` `C++` `Python` `JavaScript` `SQL` `Assembly`
+
+**Core Concepts**  
+`Data Structures & Algorithms` `OOP` `Operating Systems` `DBMS` `Computer Architecture` `Software Design`
+
+**Backend & Databases**  
+`Node.js` `PostgreSQL` `Supabase` `MySQL` `MongoDB` `REST APIs`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Linux/Ubuntu` `VS Code` `Visual Studio` `Oracle SQL Developer` `MASM/Irvine32` `SDL2`
+
+---
+
+## Featured Projects
+
+### 🖥️ [OS-Level Chat Server Using Thread Pools](https://github.com/Mahad-Khan-14/OS_Semester_Project)
+Concurrent C-based chat server implementing **thread pools, synchronization, producer-consumer task queues, semaphores, mutexes, authentication, chat rooms, and logging**.
+
+### 🚑 [Ambulance Dispatch Optimization System](https://github.com/Mahad-Khan-14/DSA_Semester_Project)
+C++ emergency-dispatch simulator using **graphs, Dijkstra’s algorithm, priority queues, queues, traffic-weighted routing, and priority-based ambulance allocation**.
+
+### 🗄️ [Virtual Education Institute (VEI) Management System](https://github.com/Mahad-Khan-14/DBMS_AI_PROJECT_REPO)
+Database-driven academic management system built with **PostgreSQL/Supabase, Node.js, Express.js, and JavaScript**, featuring relational design, constraints, triggers, procedures, enrollment, and attendance workflows.
+
+### ♟️ [Chess Game](https://github.com/Mahad-Khan-14/CHESS_GAME)
+Graphical C++ chess application using **OOP and SDL2**, with board interaction, game-state management, move validation, timers, and chess rules implemented through modular components.
+
+### 🎮 [Dual Board Game Console](https://github.com/Mahad-Khan-14/COAL_Project)
+Low-level **x86 Assembly/MASM Irvine32** project combining Sudoku and Tic-Tac-Toe with input handling, validation, board management, and game-flow logic.
+
+### 🏨 [Hostel Management System — SDA](https://github.com/Mahad-Khan-14/Hostel_Management_SDA)
+Software Design & Architecture project modeling a Hostel Management System through **UML and architectural artifacts**, including use-case, class, activity, sequence, component, deployment, and timing diagrams.
+
+---
+
+## Current Focus
+
+- Strengthening **DSA and competitive programming**
+- Building stronger **systems and backend projects**
+- Improving **Linux, Git, and DevOps** skills
+- Exploring the connection between **low-level systems and modern software engineering**
+
+---
+
+## Competitive Programming & Activities
+
+Participated in competitive programming events at **PROCOM** and **Developers’ Day — ACM NUCES**, including:
+
+- RecursionHell: Find the Exit — 2026
+- Blind Code Battle — 2025
+- Interstellar Intelligence — 2025
+- Debug or Die — 2025
+- Coder’s Cup — 2025
+
+### Certification
+
+**AI For Everyone** — DeepLearning.AI / Coursera, 2025
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Mahad-khan-14&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Mahad-khan-14&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahad-khan-14&layout=compact&hide_border=true&langs_count=8" height="150" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahad-khan-775062243/">LinkedIn</a> ·
+  <a href="https://github.com/Mahad-Khan-14">GitHub</a> ·
+  <a href="mailto:mahad.fourteen@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
