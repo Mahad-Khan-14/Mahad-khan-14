@@ -37,7 +37,7 @@ Currently building projects in **C/C++, Python, JavaScript, SQL, and Assembly**,
 ### 🖥️ [OS-Level Chat Server Using Thread Pools](https://github.com/Mahad-Khan-14/OS_Semester_Project)
 Concurrent C-based chat server implementing **thread pools, synchronization, producer-consumer task queues, semaphores, mutexes, authentication, chat rooms, and logging**.
 
-### 🚑 [Ambulance Dispatch Optimization System](https://github.com/Mahad-Khan-14/DSA_Semester_Project)
+### 🚑 [Ambulance Dispatch Optimization System](https://github.com/Mahad-Khan-14/Ambulance-Dispatch-Optimization-System)
 C++ emergency-dispatch simulator using **graphs, Dijkstra’s algorithm, priority queues, queues, traffic-weighted routing, and priority-based ambulance allocation**.
 
 ### 🗄️ [Virtual Education Institute (VEI) Management System](https://github.com/Mahad-Khan-14/DBMS_AI_PROJECT_REPO)
